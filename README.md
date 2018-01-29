@@ -13,7 +13,7 @@
 
 # MARA Framework
 
-This unofficial image contains MARA, a Mobile Application Reverse engineering and Analysis Framework. It is a tool that puts together commonly used mobile application reverse engineering and analysis tools, to assist in testing mobile applications against the OWASP mobile security threats. Its objective is to make this task easier and friendlier to mobile application developers and security professionals. See [github.com/xtiankisutsa/MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework) for more details about what it is.
+This unofficial image contains MARA, a Mobile Application Reverse engineering and Analysis Framework. It is a tool that puts together commonly used mobile application reverse engineering and analysis tools, to assist in testing mobile applications against the OWASP mobile security threats. Its objective is to make this task easier and friendlier to mobile application developers and security professionals. See [MARA's GitHub repository](https://github.com/xtiankisutsa/MARA_Framework) for more details about what it is.
 
 ## Using MARA
 
